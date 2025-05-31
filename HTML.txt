@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SERVIS BINJAKËT Durrës</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background-color: #333; color: white; padding: 20px; text-align: center; }
+    nav { background-color: #444; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    section { padding: 20px; }
+    footer { background-color: #333; color: white; text-align: center; padding: 15px; position: fixed; width: 100%; bottom: 0; }
+    .service, .product { margin-bottom: 15px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SERVIS BINJAKËT Durrës</h1>
+    <p>Riparime kompjuterësh & TV, dhe shitje pjesësh cilësore</p>
+  </header>
+  <nav>
+    <a href="#home">Kreu</a>
+    <a href="#services">Shërbime</a>
+    <a href="#products">Pjesë për Shitje</a>
+    <a href="#about">Rreth Nesh</a>
+    <a href="#contact">Kontakt</a>
+  </nav>
+
+  <section id="home">
+    <h2>Mirë se vini në SERVIS BINJAKËT</h2>
+    <p>Eksperiencë mbi 20 vjeçare në riparime kompjuterësh, laptopësh, televizorësh dhe shitje pjesësh.</p>
+  </section>
+
+  <section id="services">
+    <h2>Shërbimet Tona</h2>
+    <div class="service">- Riparim kompjuterësh & laptopësh</div>
+    <div class="service">- Instalime sistemesh operativë (Windows/Linux)</div>
+    <div class="service">- Riparim TV (LED, LCD, Smart)</div>
+    <div class="service">- Pastrim dhe mirëmbajtje kompjuterësh</div>
+    <div class="service">- Backup & rikuperim të dhënash</div>
+  </section>
+
+  <section id="products">
+    <h2>Pjesë për Shitje</h2>
+    <div class="product">- Hard Disk, RAM, Kabllo HDMI, Tastiera, Mouse</div>
+    <div class="product">- Pllaka amë,Matherbaord nderim, ushqyes (power supply), ventilatorë</div>
+    <div class="product">- Telecommande dhe pjesë për TV</div>
+  </section>
+
+  <section id="about">
+    <h2>Rreth Nesh</h2>
+    <p>Jemi një biznes familjar në Durrës me fokus te cilësia dhe korrektësia. Klientët tanë janë gjithmonë në qendër të vëmendjes.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Kontakt</h2>
+    <p>📞 Tel: +355 0697824273</p>
+    <p>📍 Adresë: Durrës, Shqipëri</p>
+    <p>📧 Email: dorianixhardo2gmail.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 SERVIS BINJAKËT Durrës – Të gjitha të drejtat e rezervuara.</p>
+  </footer>
+</body>
+</html>
