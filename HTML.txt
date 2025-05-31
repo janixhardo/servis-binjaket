@@ -56,7 +56,7 @@
   <section id="contact">
     <h2>Kontakt</h2>
     <p>📞 Tel: +355 0697824273</p>
-    <p>📍 Adresë: Durrës, Shqipëri</p>
+    <p>📍 Adresë: Lagjia 17 Rruga Neki Lbohovah ,Durrës, Shqipëri</p>
     <p>📧 Email: dorianixhardo2gmail.com</p>
   </section>
 
